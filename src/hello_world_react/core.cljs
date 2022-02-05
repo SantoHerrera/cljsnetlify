@@ -16,8 +16,8 @@
 
 ;; NOTE ditto for the state initialization process
 (defonce init
-  (do (add-todo "I like trains")
-      (add-todo "buy milk")))
+  (do (add-todo "this is a fucking test")
+      (add-todo "please work")))
 
 ;; -------------------------
 ;; Views
